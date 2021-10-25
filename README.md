@@ -14,7 +14,7 @@ An Alchemy API key is expect to be associated with the following environment var
 
 To set the env variable:
 
-- run `export ALCHEMY_MAINNET_RPC_URL="...insert API key here..."
+- run `export ALCHEMY_MAINNET_RPC_URL="...insert API key here..."`
 
 ## Installation
 
