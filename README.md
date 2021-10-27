@@ -1,6 +1,6 @@
-# alchemy
+# HardHat Debug
 
-Alchemy testing script.
+Repository to repro hardhat network errors.
 
 ## Prerequisites
 
